@@ -16,8 +16,7 @@ LOCAL_PATH := vendor/huawei/h60-common
 
 PRODUCT_PACKAGES += \
 	libion \
-	libGLES_mali \
-	libgnuexif
+	libGLES_mali
 
 ### surfaceflinger blobs have to go away!
 PRODUCT_COPY_FILES += \
